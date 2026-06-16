@@ -1,0 +1,12 @@
+$ next dev
+▲ Next.js 16.2.9 (Turbopack)
+- Local:         http://localhost:3000
+- Network:       http://192.168.0.2:3000
+- Environments: .env.local
+✓ Ready in 840ms
+
+○ Compiling / ...
+ GET / 200 in 9.5s (next.js: 8.6s, application-code: 936ms)
+[browser] Next.js detected. `immediatelyRender` defaults to false to avoid hydration mismatches. Pass `immediatelyRender: true` explicitly if you are rendering the editor only on the client. (src/components/Editor.tsx:13:27)
+[browser] Next.js detected. `immediatelyRender` defaults to false to avoid hydration mismatches. Pass `immediatelyRender: true` explicitly if you are rendering the editor only on the client. (src/components/Editor.tsx:13:27)
+[browser] ⨯ unhandledRejection: Error: A Yjs Doc connected to room "aetherspace-room" already exists!
